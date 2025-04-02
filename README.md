@@ -6,7 +6,7 @@ This project is a Booking.com Clone built using Next.js 14, Oxylabs, Shadcn, Tai
 
 **Live Demo:** [Watch on YouTube](https://www.youtube.com/watch?v=cPRDInlcATo)
 
-**Final Blog Post:** [Watch on YouTube](https://medium.com/@elhoucinesmaili51/hotel-bookings-or-rooms-for-rent-c1bca94ee389)
+**Final Blog Post:** [Blog Post](https://medium.com/@elhoucinesmaili51/hotel-bookings-or-rooms-for-rent-c1bca94ee389)
 
 **Author(s):** [Elhoucine Smaili](https://www.linkedin.com/in/elhoucinesmaili/)
 
