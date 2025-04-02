@@ -46,7 +46,9 @@ Contributions are welcome! Fork the repo and submit a pull request.
 ---
 
 ### Licensing
- 
+This project is licensed under [MIT License](https://github.com/elhoucinesmaili/build_my_portfolio_project_easybooking/blob/main/SECURITY.md).
+---
+This project is licensed under ![capture of home page](https://github.com/elhoucinesmaili/build_my_portfolio_project_easybooking/blob/main/Capture1.PNG).
 ---
 
 ## Optional: Adding a Personal & Technical Touch
